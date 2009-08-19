@@ -1,0 +1,6 @@
+from ..base import gpib_base as lldriver
+
+
+##List of known commnads for this device
+
+WAVEFORM_READ='curve
