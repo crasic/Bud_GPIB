@@ -1,4 +1,5 @@
 import gpib
+"""test!"""
 
 class GpibDevice:
 	"""Generic lowelevel GPIB device for the Budker-phys gpib python library"""
