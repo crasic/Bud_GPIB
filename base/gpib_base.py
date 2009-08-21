@@ -1,6 +1,10 @@
 import gpib
 """test!"""
+<<<<<<< HEAD
 """test3!"""
+=======
+"""test2!"""
+>>>>>>> 18d526c5be9cfd98ce023b1528c2a556d1ccdda5
 class GpibDevice:
 	"""Generic lowelevel GPIB device for the Budker-phys gpib python library"""
 	DEFAULT_READ_LENGTH=1000
